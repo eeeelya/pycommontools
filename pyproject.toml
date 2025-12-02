@@ -1,6 +1,6 @@
 [project]
 name = "pycommontools"
-version = "0.0.2"
+version = "0.0.3"
 description = "A collection of common Python utilities"
 readme = "README.md"
 requires-python = ">=3.13"
